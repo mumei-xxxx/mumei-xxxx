@@ -13,6 +13,7 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: purenium
+          zenn_max_articles: 10
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
