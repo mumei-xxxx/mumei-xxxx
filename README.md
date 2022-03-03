@@ -1,4 +1,4 @@
-# 👋 Hi I'm mumei-xxxx
+# 👋 Hi, I'm 無名隱者
 
 <p align="left"> 
   <a href="https://github.com/mumei-xxxx/mumei-xxxx/">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## Zenn Articles
+# Zenn Articles
 
 <!-- profile updater begin: zenn -->
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
@@ -19,9 +19,7 @@
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
 <!-- profile updater end: zenn -->
 
-
-
-
+[![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **mumei-xxxx/mumei-xxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
