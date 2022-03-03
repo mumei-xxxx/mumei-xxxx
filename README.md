@@ -17,6 +17,9 @@
 - Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
 - Dec 18 [Ruby on Rails + Slim 環境で Vue.js の Slot を使う。](https://zenn.dev/purenium/articles/rails-slim-vue-slot)
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
+- Sep 20 [【PureScript】Halogen を導入して、サンプルコードのカウンターアプリを試してみる。](https://zenn.dev/purenium/articles/introducing-purescript-haogen)
+- Sep 7 [静的型付け関数型言語 PureScript の環境構築。【 WSL２/2021年9月 ver. 】](https://zenn.dev/purenium/articles/587febd192d7fd)
+- Jul 28 [【Vim/Neovim】fern.vim で隠しファイル("."などで始まるファイル）を表示する。](https://zenn.dev/purenium/articles/50facb02e93cbd)
 <!-- profile updater end: zenn -->
 
 <!-- Top Languages Card -->
