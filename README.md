@@ -10,6 +10,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
+- Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
+- Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
+- Dec 18 [Ruby on Rails + Slim 環境で Vue.js の Slot を使う。](https://zenn.dev/purenium/articles/rails-slim-vue-slot)
+- Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
 <!-- profile updater end: zenn -->
 
 
