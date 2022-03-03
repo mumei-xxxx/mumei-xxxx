@@ -19,6 +19,11 @@
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
 <!-- profile updater end: zenn -->
 
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumei-xxxx&layout=compact&theme=dracula)]
+(https://github.com/anuraghazra/github-readme-stats)
+
+
 [![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
