@@ -1,4 +1,6 @@
-# 👋 Hi, I'm 無名隱者
+# 👋 Hi, I'm 無名隱者(mumei inja)
+
+Software Developer/Engineer.
 
 <p align="left"> 
   <a href="https://github.com/mumei-xxxx/mumei-xxxx/">
