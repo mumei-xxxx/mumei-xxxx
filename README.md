@@ -12,6 +12,7 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 7 [【 Windows 11 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
 - Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
 - Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
