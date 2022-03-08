@@ -11,7 +11,7 @@ Software Developer/Engineer.
   </a>
 </p>
 
-# Zenn Articles
+## Zenn Articles
 
 <!-- profile updater begin: zenn -->
 - Mar 7 [【 Windows 11 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
@@ -31,6 +31,19 @@ Software Developer/Engineer.
 
 [![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mumei-xxxx/mumei-xxxx/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+## Developments
+### Next.js
+
+Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）
+https://github.com/mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0
+
+Bitcoin/日本円情報表示。Next.js の Static Generation を利用しながら、 useSWR で、データの強整合性(Strong Consistency)を実現した例。
+https://github.com/mumei-xxxx/nextjs-sg-use-swr-strong-consistency-0
+
+Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。
+https://github.com/mumei-xxxx/nextjs-recoil-tic-tac-toe-0
+
 <!--
 **mumei-xxxx/mumei-xxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,4 +57,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+参考ページ
+
+【個人開発】Githubのプロフィールに、Qiita・Zennの記事などを一覧表示させる、Github Actionsのアクション作ったよ！
+https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b
+
+GitHubのプロフィールをカッコよくする方法② GitHub Profile Summary Cards編
+https://zenn.dev/a_ichi1/articles/64f353e23408b9
+
 -->
