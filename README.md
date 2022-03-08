@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 無名隱者(mumei inja)
+# 👋 Hi, I'm 無名隱者(Mumei Inja)
 
 Software Developer/Engineer.
 
@@ -24,6 +24,8 @@ Software Developer/Engineer.
 - Sep 7 [静的型付け関数型言語 PureScript の環境構築。【 WSL２/2021年9月 ver. 】](https://zenn.dev/purenium/articles/587febd192d7fd)
 - Jul 28 [【Vim/Neovim】fern.vim で隠しファイル("."などで始まるファイル）を表示する。](https://zenn.dev/purenium/articles/50facb02e93cbd)
 <!-- profile updater end: zenn -->
+
+<p></p>
 
 <!-- Top Languages Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumei-xxxx&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
