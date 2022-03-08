@@ -35,15 +35,13 @@ Software Developer/Engineer.
 ## Developments
 ### Next.js
 
-Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）
 [![mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0](https://github-readme-stats.vercel.app/api/pin/?username=mumei-xxxx&repo=nextjs-sg-use-swr-gourmet-search-0)](https://github.com/mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0)
 
 
-Bitcoin/日本円情報表示。Next.js の Static Generation を利用しながら、 useSWR で、データの強整合性(Strong Consistency)を実現した例。
-https://github.com/mumei-xxxx/nextjs-sg-use-swr-strong-consistency-0
+[![mumei-xxxx/nextjs-sg-use-swr-strong-consistency-0](https://github-readme-stats.vercel.app/api/pin/?username=mumei-xxxx&repo=nextjs-sg-use-swr-strong-consistency-0)](https://github.com/mumei-xxxx/nextjs-sg-use-swr-strong-consistency-0)
 
-Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。
-https://github.com/mumei-xxxx/nextjs-recoil-tic-tac-toe-0
+[![mumei-xxxx/nextjs-recoil-tic-tac-toe-0](https://github-readme-stats.vercel.app/api/pin/?username=mumei-xxxx&repo=nextjs-recoil-tic-tac-toe-0)](https://github.com/mumei-xxxx/nextjs-recoil-tic-tac-toe-0)
+
 
 <!--
 **mumei-xxxx/mumei-xxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
