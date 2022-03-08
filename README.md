@@ -36,7 +36,8 @@ Software Developer/Engineer.
 ### Next.js
 
 Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）
-https://github.com/mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0
+[![mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0](https://github-readme-stats.vercel.app/api/pin/?username=mumei-xxxx&repo=nextjs-sg-use-swr-gourmet-search-0)](https://github.com/mumei-xxxx/nextjs-sg-use-swr-gourmet-search-0)
+
 
 Bitcoin/日本円情報表示。Next.js の Static Generation を利用しながら、 useSWR で、データの強整合性(Strong Consistency)を実現した例。
 https://github.com/mumei-xxxx/nextjs-sg-use-swr-strong-consistency-0
@@ -65,5 +66,8 @@ https://qiita.com/kumackey/items/5bf3dec679f6888d9d4b
 
 GitHubのプロフィールをカッコよくする方法② GitHub Profile Summary Cards編
 https://zenn.dev/a_ichi1/articles/64f353e23408b9
+
+GitHub Readme Stats
+https://github.com/anuraghazra/github-readme-stats#github-stats-card
 
 -->
