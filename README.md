@@ -25,7 +25,7 @@ Software Developer/Engineer.
 - Jul 28 [【Vim/Neovim】fern.vim で隠しファイル("."などで始まるファイル）を表示する。](https://zenn.dev/purenium/articles/50facb02e93cbd)
 <!-- profile updater end: zenn -->
 
-<p></p>
+<p style="margin-bottom:20px;"></p>
 
 <!-- Top Languages Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumei-xxxx&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
