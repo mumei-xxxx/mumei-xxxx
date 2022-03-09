@@ -26,7 +26,6 @@ Software Developer/Engineer.
 <!-- profile updater end: zenn -->
 
 <br>
-<br>
 
 <!-- Top Languages Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumei-xxxx&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
