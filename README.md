@@ -14,6 +14,7 @@ Software Developer/Engineer.
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
 - Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
