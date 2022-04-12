@@ -14,6 +14,7 @@ Software Developer/Engineer.
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Apr 11 [【FFmpeg】フォルダ内の複数の ts ファイル（動画ファイル）を、コマンド一発で、flac や wav に変換する。](https://zenn.dev/purenium/articles/converting-multiple-ts-files-by-ffmpeg)
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
@@ -23,7 +24,6 @@ Software Developer/Engineer.
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
 - Sep 20 [【PureScript】Halogen を導入して、サンプルコードのカウンターアプリを試してみる。](https://zenn.dev/purenium/articles/introducing-purescript-haogen)
 - Sep 7 [静的型付け関数型言語 PureScript の環境構築。【 WSL２/2021年9月 ver. 】](https://zenn.dev/purenium/articles/587febd192d7fd)
-- Jul 28 [【Vim/Neovim】fern.vim で隠しファイル("."などで始まるファイル）を表示する。](https://zenn.dev/purenium/articles/50facb02e93cbd)
 <!-- profile updater end: zenn -->
 
 <br>
