@@ -14,6 +14,7 @@ Software Developer/Engineer.
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Sep 26 [【二次創作】壱百満天原サロメ💯🦂「学習の中動態的悦びですわ～！！！」【 學而時習之、不亦說乎 】 #サロメ百万展](https://zenn.dev/purenium/articles/1000000lome-yasutomi-rongo-aspect-middle-voice)
 - Apr 11 [【FFmpeg】フォルダ内の複数の ts ファイル（動画ファイル）を、コマンド一発で、flac や wav に変換する。](https://zenn.dev/purenium/articles/converting-multiple-ts-files-by-ffmpeg)
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
@@ -23,7 +24,6 @@ Software Developer/Engineer.
 - Dec 18 [Ruby on Rails + Slim 環境で Vue.js の Slot を使う。](https://zenn.dev/purenium/articles/rails-slim-vue-slot)
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
 - Sep 20 [【PureScript】Halogen を導入して、サンプルコードのカウンターアプリを試してみる。](https://zenn.dev/purenium/articles/introducing-purescript-haogen)
-- Sep 7 [静的型付け関数型言語 PureScript の環境構築。【 WSL２/2021年9月 ver. 】](https://zenn.dev/purenium/articles/587febd192d7fd)
 <!-- profile updater end: zenn -->
 
 <br>
