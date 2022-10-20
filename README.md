@@ -14,6 +14,7 @@ Software Developer/Engineer.
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Oct 19 [【PureScript】spago が v0.15.0 から esbuild を使うようになっていた。](https://zenn.dev/purenium/articles/purescript-spago-use-esbuild-as-bundler)
 - Sep 26 [【二次創作】学習の中動態的悦び #サロメ百万展](https://zenn.dev/purenium/articles/1000000lome-yasutomi-rongo-aspect-middle-voice)
 - Apr 11 [【FFmpeg】フォルダ内の複数の ts ファイル（動画ファイル）を、コマンド一発で、flac や wav に変換する。](https://zenn.dev/purenium/articles/converting-multiple-ts-files-by-ffmpeg)
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
@@ -23,7 +24,6 @@ Software Developer/Engineer.
 - Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
 - Dec 18 [Ruby on Rails + Slim 環境で Vue.js の Slot を使う。](https://zenn.dev/purenium/articles/rails-slim-vue-slot)
 - Oct 17 [ウィトゲンシュタイン『論理哲学論考』とプログラミング言語的世界観](https://zenn.dev/purenium/articles/logisch-philosophische-abhandlung-weltanschauung)
-- Sep 20 [【PureScript】Halogen を導入して、サンプルコードのカウンターアプリを試してみる。](https://zenn.dev/purenium/articles/introducing-purescript-haogen)
 <!-- profile updater end: zenn -->
 
 <br>
