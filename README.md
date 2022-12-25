@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
 - Oct 19 [【PureScript】spago が v0.15.0 から esbuild を使うようになっていた。](https://zenn.dev/purenium/articles/purescript-spago-use-esbuild-as-bundler)
 - Sep 26 [【二次創作】学習の中動態的悦び #サロメ百万展](https://zenn.dev/purenium/articles/1000000lome-yasutomi-rongo-aspect-middle-voice)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
 - Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
 - Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
-- Dec 18 [Ruby on Rails + Slim 環境で Vue.js の Slot を使う。](https://zenn.dev/purenium/articles/rails-slim-vue-slot)
 <!-- profile updater end: zenn -->
 
 <br>
