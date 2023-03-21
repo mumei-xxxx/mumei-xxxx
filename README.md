@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 21 [SWR活用パターン 無限スクロール編](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
 - Oct 19 [【PureScript】spago が v0.15.0 から esbuild を使うようになっていた。](https://zenn.dev/purenium/articles/purescript-spago-use-esbuild-as-bundler)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
 - Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
-- Jan 6 [Next.js + TypeScript + Recoil + Herp社ESLint Config でReactチュートリアルを作る。](https://zenn.dev/purenium/articles/nextjs-recoil-tic-tac-toe)
 <!-- profile updater end: zenn -->
 
 <br>
