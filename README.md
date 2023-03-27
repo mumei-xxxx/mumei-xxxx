@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 27 [Clean Architecture の『精髄』](https://zenn.dev/purenium/articles/clean-architecture-essence)
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 - Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
-- Feb 16 [【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency)
 <!-- profile updater end: zenn -->
 
 <br>
