@@ -16,7 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
-- Mar 27 [Clean Architecture の『精髄』](https://zenn.dev/purenium/articles/clean-architecture-essence)
+- Mar 27 [Clean Architecture の『骨』](https://zenn.dev/purenium/articles/clean-architecture-essence)
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
