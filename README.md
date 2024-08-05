@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Aug 5 [【2024年】フロントエンド設定集（ESLint、Prettier、EditorConfig、tsconfig.json……）](https://zenn.dev/purenium/articles/2024_08_05_front-end_configuration)
 - Mar 27 [Clean Architecture の『骨』](https://zenn.dev/purenium/articles/clean-architecture-essence)
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Apr 11 [【FFmpeg】フォルダ内の複数の ts ファイル（動画ファイル）を、コマンド一発で、flac や wav に変換する。](https://zenn.dev/purenium/articles/converting-multiple-ts-files-by-ffmpeg)
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
 - Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
-- Mar 2 [Next.js（SG） + SWR + Recoil + TypeScript でAPIグルメ検索（自動更新機能付き）](https://zenn.dev/purenium/articles/nextjs-sg-use-swr-gourmet-search)
 <!-- profile updater end: zenn -->
 
 <br>
