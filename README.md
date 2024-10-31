@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Oct 31 [テストとは《写像》である～なぜ自動テストが書けないのか～](https://zenn.dev/purenium/articles/2024_11_31_test_is_a_mapping)
 - Aug 5 [【2024年】フロントエンド設定集（ESLint、Prettier、EditorConfig、tsconfig.json……）](https://zenn.dev/purenium/articles/2024_08_05_front-end_configuration)
 - Mar 27 [Clean Architecture の『骨』](https://zenn.dev/purenium/articles/clean-architecture-essence)
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Sep 26 [【二次創作】学習の中動態的悦び #サロメ百万展](https://zenn.dev/purenium/articles/1000000lome-yasutomi-rongo-aspect-middle-voice)
 - Apr 11 [【FFmpeg】フォルダ内の複数の ts ファイル（動画ファイル）を、コマンド一発で、flac や wav に変換する。](https://zenn.dev/purenium/articles/converting-multiple-ts-files-by-ffmpeg)
 - Mar 25 [【 Next.js 12.1 + TypeScript 】next/jest と E2Eテスト の Cypress を共存させてミル貝。](https://zenn.dev/purenium/articles/nextjs-12_1-next-jest-and-e2e-cypress)
-- Mar 7 [【 WSL 】NoxPlayer（Androidエミュレーター） 利用後、WSL が起動できなくなったときの復帰方法](https://zenn.dev/purenium/articles/noxplayer-wsl-error-fix)
 <!-- profile updater end: zenn -->
 
 <br>
