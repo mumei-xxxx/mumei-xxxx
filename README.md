@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 無名隱者(Mumei Inja)
+# 👋 Hi, I'm 聖永宗玄(Seiei Sogen)
 
 Software Developer/Engineer.
 
@@ -8,8 +8,8 @@ https://mumei-xxxx.github.io/
   <a href="https://github.com/mumei-xxxx/mumei-xxxx/">
     <img src="https://komarev.com/ghpvc/?username=mumei-xxxx" alt="mumei-xxxx" />
   </a>
-  <a href="http://twitter.com/mumei_yinja">
-    <img height="20" src="https://img.shields.io/twitter/follow/mumei_yinja?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/SeieiSogen">
+    <img height="20" src="https://img.shields.io/twitter/follow/SeieiSogen?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
 
